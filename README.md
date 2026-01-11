@@ -1,5 +1,9 @@
 # Prisoner's Dilemma Laboratory 🧪
 
+
+<img width="1761" height="868" alt="image" src="https://github.com/user-attachments/assets/0dafbd33-7728-4eab-a63a-2cd45c819c5b" />
+
+
 This is a playground to watch AI agents play the "Prisoner's Dilemma" against each other. It’s got a Python brain (backend) and a React face (frontend).
 
 ## How to Run It in 30 Seconds
