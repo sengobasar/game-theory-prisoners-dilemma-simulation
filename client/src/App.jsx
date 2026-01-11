@@ -32,7 +32,7 @@ function App() {
         <div className="container">
             <header className="header">
                 <h1>Prisoner's Dilemma Laboratory</h1>
-                <p>Research-grade Agent Simulation Platform</p>
+                <p></p>
             </header>
 
             <div className="controls-card">
